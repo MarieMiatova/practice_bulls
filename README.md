@@ -1,4 +1,4 @@
-# practise_bulls
+# practice_bulls
 
 
 Быки и коровы
